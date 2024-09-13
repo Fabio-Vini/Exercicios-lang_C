@@ -1,2 +1,2 @@
 # Exercicios-lang_C
-Exercicios realizados com a linguagem C
+Exercises performed with the C language
